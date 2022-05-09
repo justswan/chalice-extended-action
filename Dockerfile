@@ -1,5 +1,4 @@
-FROM python:3.10
-
+FROM python:3.9
 LABEL version="1.0.0"
 LABEL repository="https://github.com/5tigerjelly/chalice-action"
 LABEL homepage="https://github.com/5tigerjelly/chalice-action"
